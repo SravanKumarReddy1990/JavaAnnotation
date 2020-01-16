@@ -1,0 +1,5 @@
+com/veinhorn/reflection/Main.class
+com/veinhorn/reflection/JsonConverter.class
+com/veinhorn/reflection/domain/Order.class
+com/veinhorn/reflection/domain/User.class
+com/veinhorn/reflection/annotation/JsonField.class
